@@ -1,4 +1,4 @@
-# Cool Algorithms 
+# An algorithm a day
 
 This repository is a collection of various algorithms that I find cool and interesting to explore and understand. 
 
