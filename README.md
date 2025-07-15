@@ -1,5 +1,3 @@
-# An algorithm a day
-
 This repository is a collection of various algorithms that I find cool and interesting to explore and understand. 
 
 > **Note:** Some are practical and some are purely creative but not ideal for real world scenarios. 
